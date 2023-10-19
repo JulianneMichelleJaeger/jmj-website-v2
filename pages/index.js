@@ -8,8 +8,8 @@ const Index = () => {
       <div className="info-container">
         <h1>Hello!</h1>
         <p>
-          My name is Julianne Jaeger, and I am a web and software engineer
-          located in Silver Spring, Maryland.
+          My name is Julianne Blanc, and I am a web and software engineer
+          located in Annapolis, Maryland.
         </p>
         <p>
           I have a Bachelor's degree in Computer Science from Towson University,

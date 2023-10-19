@@ -18,12 +18,12 @@ const Contact = () => {
           </h3>
         </a>
         <a
-          href="https://www.linkedin.com/in/julianne-jaeger-085964156/"
+          href="https://www.linkedin.com/in/julianne-blanc-085964156/"
           target="_blank"
         >
           <h3 className="contact">
             <img src="/linkedin-blue.png" className="icon" />{" "}
-            linkedin.com/in/julianne-jaeger-085964156/
+            https://www.linkedin.com/in/julianne-blanc-085964156/
           </h3>
         </a>
         <a href="https://my.indeed.com/p/juliannej-rumvnis" target="_blank">
