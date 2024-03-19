@@ -27,7 +27,7 @@
         "level": 5
       },
       {
-        "name": "Command Line Interface",
+        "name": "Material UI",
         "level": 5
       },
       {
@@ -35,15 +35,15 @@
         "level": 4
       },
       {
-        "name": "Ember.js",
-        "level": 4
-      },
-      {
         "name": "Next.js",
         "level": 4
       },
       {
-        "name": "Bootstrap",
+        "name": "Cypress",
+        "level": 4
+      },
+      {
+        "name": "Tailwind CSS",
         "level": 3
       }
     ],
@@ -148,7 +148,7 @@
     ],
     "items2": [
       {
-        "name": "Agile",
+        "name": "Microsoft Azure",
         "level": 5
       },
       {
@@ -188,7 +188,7 @@
         "level": 3
       },
       {
-        "name": "VirtualBox",
+        "name": "AWS",
         "level": 3
       },
       {

@@ -28,7 +28,7 @@ const Index = () => {
           ReactJS, Next.js, Node.js, and MySQL.
         </p>
         <p>Feel free to contact me if you would like to know more!</p>
-        <button id="download" onClick={() => window.open("/resume.pdf")}>
+        <button id="download" onClick={() => window.open("/blanc-resume.pdf")}>
           Download Resume
         </button>
       </div>

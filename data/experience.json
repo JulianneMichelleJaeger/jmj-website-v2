@@ -3,7 +3,7 @@
     "position": "Software Engineer",
     "company": "TechSource Inc",
     "timeframe": "February 2021 - Present",
-    "description": "Implement software solutions to create new features and fix defects using Next.js, React Bootstrap, Node.js, SQL, HTML, and CSS. Follow Agile processes to outline workload and set scope for two-week sprints. Use version control technologies such as Git and GitHub for code collaboration."
+    "description": "Implement new features and fix defects for client software front-end using TypeScript, Next.js, HTML, and Tailwind CSS. Work with back-end engineers to integrate API and database functionality using Node.js, Express.js, and GraphQL. Ensure all code written is testable, optimized, and secure. Write end-to-end unit tests using Playwright. Manage cloud capability and storage using Microsoft Azure. Use version control technologies such as Git and GitHub for code collaboration."
   },
   {
     "position": "Software Engineer",
@@ -12,10 +12,10 @@
     "description": "Implemented software solutions to create new features and fix defects for multiple projects using ReactJS, Ember.js, Node.js, SQL, HTML, and CSS. Worked with designers and product owners to obtain all necessary assets and specifications for each task. Used version control technologies such as Git and Bitbucket for code collaboration."
   },
   {
-    "position": "Quality Assurance Intern",
+    "position": "Quality Assurance Engineer",
     "company": "Mosaic Learning",
     "timeframe": "November 2018 - June 2019",
-    "description": "Wrote and modified automated test cases for multiple projects using the Robot framework, Selenium, jQuery, and Python. Ran automated regression tests for multiple projects. Delegated tasks to and reviewed code of fellow interns regarding automation work. Worked with developers to create tests for ReactJS and Node.js projects."
+    "description": "Wrote and modified automated test cases for multiple projects using the Robot framework, Selenium, jQuery, and Python. Ran automated regression tests for multiple projects. Delegated tasks to and reviewed code of fellow QA engineers regarding automation work. Worked with developers to create tests for ReactJS and Node.js projects."
   },
   {
     "position": "Website Assistant",
